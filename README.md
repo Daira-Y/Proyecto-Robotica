@@ -1,2 +1,2 @@
-# Proyecto-Rob-tica
+# Proyecto-Robotica
 Smart Trash Can
