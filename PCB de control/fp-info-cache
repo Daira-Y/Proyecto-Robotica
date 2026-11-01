@@ -1,4 +1,4 @@
-24877693880489824
+24881280162974020
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100002,6 +100002,13 @@ C165508_CAP-TH_BD5_0-P2_00-D0_8-FD
 2
 2
 lcsc_footprints
+C185857_SOIC-8_L4_9-W3_9-P1_27-LS6_0-BL
+
+
+0
+8
+8
+lcsc_footprints
 C281241_IND-SMD_L3_0-W3_0_ABG03A
 
 
@@ -100045,6 +100052,13 @@ C970684_CAP-SMD_BD6_3-L6_6-W6_6-LS7_2-FD
 2
 lcsc_footprints
 C2840579_IND-SMD_L5_8-W5_2
+
+
+0
+2
+2
+lcsc_footprints
+C2868952_X1SON-2_L1_0-W0_6-P0_65-RD-1
 
 
 0
